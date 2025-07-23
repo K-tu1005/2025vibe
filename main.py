@@ -57,3 +57,4 @@ default_menus = {
         {"name": "팥빙수", "cal": 550, "price": 6000}
     ]
 }
+ 

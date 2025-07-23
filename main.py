@@ -5,7 +5,7 @@ default_menus = {
         {"name": "불고기", "cal": 600, "price": 11000},
         {"name": "된장찌개", "cal": 400, "price": 7000},
         {"name": "삼겹살", "cal": 800, "price": 12000}
-    ],
+    ], 
     "중식": [
         {"name": "짜장면", "cal": 700, "price": 7000},
         {"name": "짬뽕", "cal": 750, "price": 8000},
